@@ -1,5 +1,5 @@
 import base64
-import qrcode
+#import qrcode #This library is commented out, you will need to use this in the task set in README.md!
 
 def main():
     text = input("Enter text to encode: ")      # Takes user input
