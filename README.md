@@ -5,10 +5,10 @@ python3 -m venv venv
 Enter your virtual environment
 . ./venv/bin/activate
 
-(In your Venv) Install requirements
+(In your Venv) Install requirements (Make sure (venv) is on your terminal!)
 pip3 install -r requirements.txt
 
-Run your program
+Run your program (Make sure (venv) is on your terminal!)
 python3 main.py
 
 
