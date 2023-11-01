@@ -18,6 +18,10 @@ Task (Using main.py):
 
     2. Create a QRcode of the Base64 data you encoded
 
+    3. Create a function to decode a base64 text input
+
+    4. (Challenge) Can you decode a QRcode image that contains base64 text?
+
 Help: https://pypi.org/project/qrcode/
 
 
